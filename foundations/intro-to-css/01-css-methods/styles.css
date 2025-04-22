@@ -1,0 +1,10 @@
+/* Styling the first element with white text
+and a red background. */
+
+div {
+    color: white;
+    background-color: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
